@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.btn{
+    padding: 5px;
+    margin-top: 5px;
+    background-color: #66ccff;
+}
+
+p{
+    color: green;
+}
+
